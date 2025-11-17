@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>💫 Full-Stack Blockchain Engineer | Web3, Rust, Solidity, Trading Bots & Web2 Development 💫</h2>
+  <h2>💫 Full-Stack Blockchain Engineer | Web3, Trading Bots & Web2 Development 💫</h2>
 </div>
 
 <h4>I am a highly skilled Full-Stack Blockchain Engineer based in the United Kingdom, with deep expertise in Web3 and emerging Web4 technologies. My experience spans the design and development of Rust-based smart contracts on Solana and NEAR, as well as Solidity contracts on Ethereum and other EVM-compatible networks. 
