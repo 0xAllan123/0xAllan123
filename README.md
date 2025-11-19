@@ -11,8 +11,3 @@ I have a proven track record of building secure, efficient, and scalable blockch
 
 <h4>I bring both technical excellence and strategic vision to every project, helping teams deliver blockchain products that are innovative, robust, and scalable.</h4>
 
-<br/>
-
-<p align="center">
-     <img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
-</p>
